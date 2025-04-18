@@ -1,41 +1,21 @@
-# 👋 Hi, I'm BlackPanda999  
+# 💫 About Me:
+🔥 Passionate cybersecurity professional with hands-on experience in penetration testing, network security, cloud security, and ethical hacking.<br>📜 Certified: CompTIA Security+, PenTest+, Google AI Essentials, System Administration & IT Infrastructure Services.<br>🛡️ Conducted web app penetration testing, Wi-Fi security assessments, and SIEM implementations.<br>🏆 Completed 60+ TryHackMe rooms, Hack The Box challenges, and advanced home lab security projects.<br>🌱 Currently Learning<br>🔍 AI in Cybersecurity – Exploring AI-driven security tools and AI-based penetration testing.<br>☁️ Cloud Security – Securing AWS, Azure, and GCP environments.<br>🏴‍☠️ Advanced Web Penetration Testing – Researching new attack techniques and AI-integrated website security.<br>💻 Tech Stack<br>Languages: Python, Bash , HTML , CSS ,C++ <br>Tools: Burp Suite, Nmap, Metasploit, SQLmap, Wireshark, Hashcat, Aircrack-ng, OWASP ZAP<br>Cloud Security: AWS, Azure, Elastic SIEM<br>💞️ Open to Collaborate<br>🔹 Cybersecurity projects – Penetration testing, AI in security, cloud security automation.<br>🔹 Bug bounty programs – Web, network, and IoT security research.<br>🔹 Open-source security tools – Contributing to security-related projec
 
-🚀 **Cybersecurity | Penetration Testing | Cloud Security | Ethical Hacking**  
 
-## 👀 About Me  
-- 🔥 Passionate cybersecurity professional with hands-on experience in **penetration testing, network security, cloud security, and ethical hacking**.  
-- 📜 **Certified:** CompTIA Security+, PenTest+, Google AI Essentials, System Administration & IT Infrastructure Services.  
-- 🛡️ Conducted **web app penetration testing, Wi-Fi security assessments, and SIEM implementations**.  
-- 🏆 Completed **60+ TryHackMe rooms, Hack The Box challenges, and advanced home lab security projects**.  
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Blackpanda999) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blackpand999) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Blackpand999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/osamakhan44) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Blackpand999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyberkhan554433@gmail.com) 
 
-## 🌱 Currently Learning  
-- 🔍 **AI in Cybersecurity** – Exploring AI-driven security tools and AI-based penetration testing.  
-- ☁️ **Cloud Security** – Securing AWS, Azure, and GCP environments.  
-- 🏴‍☠️ **Advanced Web Penetration Testing** – Researching new attack techniques and AI-integrated website security.  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlackPanda999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlackPanda999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackPanda999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Tech Stack  
-- **Languages:** Python, Bash  
-- **Tools:** Burp Suite, Nmap, Metasploit, SQLmap, Wireshark, Hashcat, Aircrack-ng, OWASP ZAP  
-- **Cloud Security:** AWS, Azure, Elastic SIEM  
-
-## 💞️ Open to Collaborate  
-- 🔹 **Cybersecurity projects** – Penetration testing, AI in security, cloud security automation.  
-- 🔹 **Bug bounty programs** – Web, network, and IoT security research.  
-- 🔹 **Open-source security tools** – Contributing to security-related projects.  
-
-## 📫 Connect With Me  
-- 🔗 **LinkedIn:** [Osama Khan](https://www.linkedin.com/in/osamakhan44)  
-- 📧 **Email:** cyberkhan554433@gmail.com  
-
-## ⚡ Fun Fact  
-- 💀 I break into systems (legally) to make them more secure!  
-- 🕵️‍♂️ I love solving **CTFs, security challenges, and automating ethical hacking techniques**.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BlackPanda999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BlackPanda999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-This README is now complete and well-structured! Let me know if you want any more tweaks. 🚀
-
-<!---
-BlackPanda999/BlackPanda999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
