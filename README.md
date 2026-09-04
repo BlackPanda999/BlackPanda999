@@ -34,6 +34,31 @@ open_to: ["Collaborations", "Bug Bounty", "Open Source Security Tools"]
 
 ---
 
+### 🤝 Open to Work
+
+I'm actively hiring-ready for:
+
+- 🛡️ **Cybersecurity Engineer** — defensive security, SIEM, incident response, vulnerability management
+- 🤖 **AI Security Engineer** — LLM security, prompt injection defense, secure AI pipelines
+- 🖥️ **IT Administrator** — Linux/Windows administration, networking, cloud infrastructure
+
+**Why review my work:** Every repo here is a working, tested tool — not tutorials. Clone any project, run the tests, see the results. My roadmaps are used by learners worldwide.
+
+**Hiring or know someone hiring?** Reach out — [LinkedIn](https://linkedin.com/in/osamakhan44) or email above. I respond fast.
+
+---
+
+### ⭐ Featured Projects (Start Here)
+
+- 🔭 [CloudAudit Lite](https://github.com/BlackPanda999/cloudaudit-lite) — multi-cloud security scanner (AWS/Azure/GCP)
+- 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — detect exposed keys and tokens in code
+- 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt injection detection
+- 📊 [LogSentinel](https://github.com/BlackPanda999/logsentinel) — Linux auth log triage for blue teams
+- 🌐 [NetSweep](https://github.com/BlackPanda999/netsweep) — network reconnaissance for defenders
+
+
+---
+
 ### 🎯 What I Do
 
 - 🔓 **Penetration Testing** — Web apps, networks, Wi-Fi security assessments
