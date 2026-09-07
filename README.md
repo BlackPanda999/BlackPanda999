@@ -42,7 +42,7 @@ I'm actively hiring-ready for:
 - 🤖 **AI Security Engineer** — LLM security, prompt injection defense, secure AI pipelines
 - 🖥️ **IT Administrator** — Linux/Windows administration, networking, cloud infrastructure
 
-**Why review my work:** Every repo here is a working, tested tool — not tutorials. Clone any project, run the tests, see the results. My roadmaps are used by learners worldwide.
+**Why review my work:** I build small, tested, dependency-light tools that solve practical security and IT problems. Clone a project, run the documented checks, and review the code.
 
 **Hiring or know someone hiring?** Reach out — [LinkedIn](https://linkedin.com/in/osamakhan44) or email above. I respond fast.
 
@@ -50,11 +50,11 @@ I'm actively hiring-ready for:
 
 ### ⭐ Featured Projects (Start Here)
 
-- 🔭 [CloudAudit Lite](https://github.com/BlackPanda999/cloudaudit-lite) — multi-cloud security scanner (AWS/Azure/GCP)
-- 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — detect exposed keys and tokens in code
-- 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt injection detection
-- 📊 [LogSentinel](https://github.com/BlackPanda999/logsentinel) — Linux auth log triage for blue teams
-- 🌐 [NetSweep](https://github.com/BlackPanda999/netsweep) — network reconnaissance for defenders
+- 🔭 [CloudAudit Lite](https://github.com/BlackPanda999/cloudaudit-lite) — multi-cloud security posture checks
+- 🛡️ [AuthLog Watch](https://github.com/BlackPanda999/authlog-watch) — read-only Linux authentication triage
+- 🖥️ [SysHealth Check](https://github.com/BlackPanda999/syshealth-check) — safe Linux health snapshots for IT admins
+- 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt-injection indicator scanning
+- 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — redacted secret detection for CI
 
 
 ---
@@ -142,13 +142,12 @@ I'm actively hiring-ready for:
 
 ### 🌱 Currently Building
 
-I'm actively building security tools and AI-powered cybersecurity projects. Every day I push new small projects focused on:
+I focus on small, practical projects that are easy to run and easy to review:
 
-- 🔍 **OSINT tools** — Information gathering automation
-- 🤖 **AI security** — ML-based threat detection systems
-- 🔐 **Crypto tools** — Password and encryption utilities
-- 🌐 **Network security** — Scanning and monitoring tools
-- ☁️ **Cloud security** — AWS/Azure/GCP security automation
+- 🛡️ **Defensive security** — authentication-log triage and cloud misconfiguration checks
+- 🤖 **AI security** — prompt-injection detection and safer agent workflows
+- 🖥️ **IT administration** — read-only Linux health checks and command references
+- 🔐 **DevSecOps** — secret detection, Terraform checks, and CI-friendly reports
 
 ---
 
