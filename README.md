@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.base44.com/images/public/6a6bbc505f6b325bdeea12e3/8d9a8addb_generated_image.png" width="100%"/>
+<img src="https://base44.app/api/apps/6a6bbc505f6b325bdeea12e3/files/mp/public/6a6bbc505f6b325bdeea12e3/11c3da40a_banner_cropped.png" width="100%"/>
 
 <br/>
 
