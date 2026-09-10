@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osamakhan44)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Blackpand999)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@blackpanda999)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberkhan554433@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=BlackPanda999&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/BlackPanda999)
 
