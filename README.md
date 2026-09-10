@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.base44.com/images/public/6a6bbc505f6b325bdeea12e3/8d9a8addb_generated_image.png" width="100%"/>
+<img src="https://media.base44.com/images/public/6a6bbc505f6b325bdeea12e3/8d9a8addb_generated_image.png" width="650"/>
 
 <br/>
 
@@ -103,7 +103,5 @@ I focus on small, practical projects that are easy to run and easy to review:
 <div align="center">
 
 *"I don't just write about security — I build it, test it, and ship it." 🐼*
-
-<img src="https://media.base44.com/images/public/6a6bbc505f6b325bdeea12e3/8d9a8addb_generated_image.png" width="100%"/>
 
 </div>
