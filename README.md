@@ -51,6 +51,7 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 - 🖥️ [SysHealth Check](https://github.com/BlackPanda999/syshealth-check) — safe Linux health snapshots for IT admins
 - 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt-injection indicator scanning
 - 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — redacted secret detection for CI
+- 🧠 [AI Engineering From Scratch Guide](https://github.com/BlackPanda999/ai-engineering-from-scratch-guide) — structured learning path with curated free videos
 
 | Project | What it does |
 |---|---|
@@ -59,8 +60,6 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 | 🌐 [NetDiag Checker](https://github.com/BlackPanda999/netdiag-checker) | Safe DNS/TCP/HTTP diagnostics |
 | 🔍 [AuthLog Watch](https://github.com/BlackPanda999/authlog-watch) | Detects brute-force & suspicious logins |
 | 🖥️ [SysHealth Check](https://github.com/BlackPanda999/syshealth-check) | Linux health checks for sysadmins |
-
-</div>
 
 ---
 
@@ -91,12 +90,13 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 
 ### 🌱 Currently Building
 
-I focus on small, practical projects that are easy to run and easy to review:
+I focus on small, practical projects that are easy to run and easy to review. My current learning track also connects the foundations behind these tools:
 
 - 🛡️ **Defensive security** — authentication-log triage and cloud misconfiguration checks
 - 🤖 **AI security** — prompt-injection detection and safer agent workflows
 - 🖥️ **IT administration** — read-only Linux health checks and command references
 - 🔐 **DevSecOps** — secret detection, Terraform checks, and CI-friendly reports
+- 📚 **AI engineering foundations** — math-first neural networks, transformers, RAG, and agents
 
 ---
 
