@@ -52,6 +52,8 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 - 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt-injection indicator scanning
 - 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — redacted secret detection for CI
 - 🧠 [AI Engineering From Scratch Guide](https://github.com/BlackPanda999/ai-engineering-from-scratch-guide) — structured learning path with curated free videos
+- 🛡️ [PortSafe](https://github.com/BlackPanda999/portsafe) — read-only Linux check for exposed TCP services
+- 🧹 [TidyFolder](https://github.com/BlackPanda999/tidyfolder) — safe dry-run file organization for messy folders
 
 | Project | What it does |
 |---|---|
