@@ -46,24 +46,13 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 
 ### ⭐ Featured Builds
 
-- 🔭 [CloudAudit Lite](https://github.com/BlackPanda999/cloudaudit-lite) — multi-cloud security posture checks
-- 🛡️ [AuthLog Watch](https://github.com/BlackPanda999/authlog-watch) — read-only Linux authentication triage
-- 🖥️ [SysHealth Check](https://github.com/BlackPanda999/syshealth-check) — safe Linux health snapshots for IT admins
-- 🤖 [PromptSentry Lite](https://github.com/BlackPanda999/ai-prompt-sentry-lite) — prompt-injection indicator scanning
-- 🔐 [SecretLint Lite](https://github.com/BlackPanda999/secretlint-lite) — redacted secret detection for CI
-- 🧠 [AI Engineering From Scratch Guide](https://github.com/BlackPanda999/ai-engineering-from-scratch-guide) — structured learning path with curated free videos
+- 🌐 [Linux Portfolio](https://blackpanda999.github.io/kalilinuxportfolio/) — my interactive portfolio, built as a Linux desktop
+- 🛰️ [ContextCheck](https://github.com/BlackPanda999/contextcheck) — scans AI/RAG input for prompt injection and secrets
 - 🛡️ [PortSafe](https://github.com/BlackPanda999/portsafe) — read-only Linux check for exposed TCP services
-- 🧹 [TidyFolder](https://github.com/BlackPanda999/tidyfolder) — safe dry-run file organization for messy folders
-
-| Project | What it does |
-|---|---|
-| 🛰️ [ContextCheck](https://github.com/BlackPanda999/contextcheck) | Scans AI/RAG input for prompt injection & secrets |
-| ☁️ [Cloud Config Checker](https://github.com/BlackPanda999/cloud-config-checker) | Finds risky cloud misconfigs (read-only) |
-| 🌐 [NetDiag Checker](https://github.com/BlackPanda999/netdiag-checker) | Safe DNS/TCP/HTTP diagnostics |
-| 🔍 [AuthLog Watch](https://github.com/BlackPanda999/authlog-watch) | Detects brute-force & suspicious logins |
-| 🖥️ [SysHealth Check](https://github.com/BlackPanda999/syshealth-check) | Linux health checks for sysadmins |
-
----
+- 🔍 [AuthLog Watch](https://github.com/BlackPanda999/authlog-watch) — detects brute-force and suspicious logins from auth logs
+- ☁️ [Cloud Config Checker](https://github.com/BlackPanda999/cloud-config-checker) — flags risky cloud misconfigs without touching infrastructure
+- 🧹 [TidyFolder](https://github.com/BlackPanda999/tidyfolder) — dry-run file organizer for messy folders
+- 🎓 [AI Security for Students](https://github.com/BlackPanda999/ai-security-for-students) — free study path for learning AI security
 
 ### 🛠️ Tech Stack
 
@@ -94,10 +83,10 @@ Every repo here is a real, tested tool — not a tutorial clone. Clone it, run i
 
 I focus on small, practical projects that are easy to run and easy to review. My current learning track also connects the foundations behind these tools:
 
-- 🛡️ **Defensive security** — authentication-log triage and cloud misconfiguration checks
-- 🤖 **AI security** — prompt-injection detection and safer agent workflows
-- 🖥️ **IT administration** — read-only Linux health checks and command references
-- 🔐 **DevSecOps** — secret detection, Terraform checks, and CI-friendly reports
+- 🛡️ **Defensive security** — log triage, exposed-service checks, cloud misconfiguration review
+- 🤖 **AI security** — prompt-injection detection and input filtering before models see data
+- 🖥️ **IT administration** — read-only Linux health checks and practical command references
+- 🔐 **DevSecOps** — secret detection, IaC checks, and CI-friendly scan reports
 - 📚 **AI engineering foundations** — math-first neural networks, transformers, RAG, and agents
 
 ---
