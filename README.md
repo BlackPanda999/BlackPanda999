@@ -22,7 +22,7 @@
 ```yaml
 name: "Osama Khan"
 role: "Cybersecurity Engineer | AI Security Researcher"
-location: "🇵🇰 Pakistan"
+location: "🇸🇦 Riyadh, Saudi Arabia"
 experience: "3+ years"
 focus: ["Penetration Testing", "AI Security", "Cloud Security", "Network Security"]
 certifications: ["Security+", "PenTest+", "Google AI Essentials"]
